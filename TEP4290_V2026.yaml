@@ -1,4 +1,4 @@
-name: TEP4290_V2025
+name: TEP4290_V2026
 channels:
   - defaults
 dependencies:
@@ -11,4 +11,4 @@ dependencies:
   - scipy
   - typing
   - scikit-learn
-prefix: C:\Users\nilsdi\Anaconda3\envs\TEP4290_V2025
+prefix: C:\Users\nilsdi\Anaconda3\envs\TEP4290_V2026
